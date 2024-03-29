@@ -1,2 +1,2 @@
-# libzipzig
+# libzip zig
 libzip zig
